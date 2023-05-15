@@ -1,8 +1,7 @@
-This a to work with Premake5
+This a fork that works with Premake5
+#
 
-==================================
-Open Asset Import Library (assimp)
-==================================
+# Open Asset Import Library (assimp)
 A library to import and export various 3d-model-formats including scene-post-processing to generate missing render data.
 ### Current build status ###
 [![Linux Build Status](https://travis-ci.org/assimp/assimp.svg)](https://travis-ci.org/assimp/assimp)

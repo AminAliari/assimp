@@ -1,4 +1,4 @@
-This a fork by Amin Aliari to work with Premake5
+This a to work with Premake5
 
 ==================================
 Open Asset Import Library (assimp)
